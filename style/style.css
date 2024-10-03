@@ -1,3 +1,5 @@
-p{color: aquamarine;
+p{color: rgb(0, 0, 0);
     background-color: cadetblue;
+    padding: 10px;
+    border-radius: 2px;
 }
